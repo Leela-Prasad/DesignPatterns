@@ -1,0 +1,8 @@
+Design Patterns are classified into
+1. Creational Patterns - how to create objects
+2. Structural Patterns -  Relationship between objects
+3. Behavioural Patterns - collaberation/interacation between objects
+
+UML Notation:
+Inheritance (->)
+Compostion(^->)
